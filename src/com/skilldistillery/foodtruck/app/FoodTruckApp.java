@@ -11,7 +11,6 @@ public class FoodTruckApp {
 
 		FoodTruckApp fest = new FoodTruckApp();
 
-		String userInput;
 		String truckName;
 		String foodType;
 		int rating = 0;
@@ -125,6 +124,6 @@ public class FoodTruckApp {
 			}
 
 		}
-
+		System.out.println("We will see you again next year!");
 	}
 }

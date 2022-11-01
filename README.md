@@ -22,5 +22,5 @@ Lastly, as my program was coming together and things are being moved around I fo
 3. Git/Github
 4. Stack Overflow
 5. Oracle 
-## Lessons learned:
+
 
